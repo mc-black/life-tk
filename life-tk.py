@@ -4,7 +4,6 @@ import copy
 import tkinter as tk
 
 
-# класс приложения: наследуется от tk.Tk
 class App(tk.Tk):
     '''Create new Application.
 
